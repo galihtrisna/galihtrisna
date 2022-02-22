@@ -1,3 +1,14 @@
+# Skills
+![kotlin](https://img.shields.io/badge/kotlin-0A0A0A?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML](https://img.shields.io/badge/html-0A0A0A?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-0A0A0A?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-0A0A0A?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-0A0A0A?style=for-the-badge&logo=mysql&logoColor=white)
+![blender](https://img.shields.io/badge/blender-0A0A0A?style=for-the-badge&logo=blender&logoColor=white)
+
+# User of
+![windows](https://img.shields.io/badge/windows-0A0A0A?style=for-the-badge&logo=windows&logoColor=white)
+![android](https://img.shields.io/badge/android-0A0A0A?style=for-the-badge&logo=android&logoColor=white)
 
 # Stats
 
