@@ -1,21 +1,29 @@
-# Skills
-![kotlin](https://img.shields.io/badge/kotlin-0A0A0A?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML](https://img.shields.io/badge/html-0A0A0A?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-0A0A0A?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-0A0A0A?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/mysql-0A0A0A?style=for-the-badge&logo=mysql&logoColor=white)
-![blender](https://img.shields.io/badge/blender-0A0A0A?style=for-the-badge&logo=blender&logoColor=white)
+# Yo, I'm Galih! 👋
 
-# User of
-![windows](https://img.shields.io/badge/windows-0A0A0A?style=for-the-badge&logo=windows&logoColor=white)
-![android](https://img.shields.io/badge/android-0A0A0A?style=for-the-badge&logo=android&logoColor=white)
+> "Just a human trying to build cool things with Code."
 
-# Stats
+### 🤷‍♂️ Who?
+I'm an Informatics student at **Telkom University**.
+Basically, I write code for the web and sometimes I make 3D art because I like things to look good.
 
-![Galih's GitHub stats](https://github-readme-stats.vercel.app/api?username=galihtrisna&show_icons=true&theme=dark)<br>
+### 🎒 My Weapons
+Stuff I use to make things happen:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=galihtrisna&theme=dark)<br>
+**Code**
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galihtrisna&layout=compact&theme=dark)<br>
+**Art & Tools**
+![Blender](https://img.shields.io/badge/Blender-e67e22?style=flat-square&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Coffee](https://img.shields.io/badge/Coffee-6F4E37?style=flat-square&logo=coffeescript&logoColor=white)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=galihtrisna&theme=tokyonight&column=3&margin-w=15&margin-h=15)<br>
+### 📂 What's in here?
+This is basically my digital garage. You'll find:
+* 🎓 **Campus Stuff:** Assignments (typical student life stuff).
+* 🧪 **Experiments:** Me trying out new tech (honestly just FOMO most of the time).
+* 🚀 **Real Projects:** Apps that actually work (hopefully).
+
+---
+[LinkedIn](https://www.linkedin.com/in/galihtrisna) • [Instagram](https://instagram.com/kucingduduk_)
